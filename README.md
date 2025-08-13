@@ -1,7 +1,7 @@
 
 <br>
 
-# [Class 1](): Introduction to Data Mining with Python and Stats Review
+# [Class 2 and 3](): Introduction to Data Mining with Python and Stats Review
 
 <br><br>
 
