@@ -4,6 +4,14 @@
 # [Class 2 and 3](): Introduction to Data Mining with Python and Stats Review
 ### Specialized Consulting for Integrated Project: Data Mining - [Full Repository Access](https://github.com/Quantum-Software-Development/specialized-consulting-data-mining)
 
+
+<br><br>
+
+
+https://github.com/user-attachments/assets/0d6324da-9468-455e-b8d1-2cce8bb63b06
+
+
+
 <br><br>
 
 #### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
