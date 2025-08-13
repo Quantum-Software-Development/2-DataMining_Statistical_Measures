@@ -18,6 +18,92 @@ This repository contains materials and examples for the **Introduction to Data M
 
 <br>
 
+## Repository Structure
+
+```
+├── data/                 # Sample datasets
+├── notebooks/           # Jupyter notebooks with examples
+├── scripts/             # Python scripts for analysis
+├── images/              # Generated plots and visualizations
+└── docs/                # Additional documentation
+```
+
+<br><br>
+
+
+## Getting Started
+
+### Prerequisites:
+
+- Python 3.7+
+- Required libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
+
+<br>
+
+### Installation:
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn jupyter
+```
+
+<br>
+
+### Quick Start:
+
+<br>
+
+```python
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+
+# Load sample data
+data = [50, 40, 41, 17, 11, 7, 22, 44, 28, 21, 19, 23, 37, 51, 54, 42, 86,
+        41, 78, 56, 72, 56, 17, 7, 69, 30, 80, 56, 29, 33, 46, 31, 39, 20,
+        18, 29, 34, 59, 73, 77, 36, 39, 30, 62, 54, 67, 39, 31, 53, 44]
+
+# Create histogram
+plt.figure(figsize=(10, 6))
+plt.hist(data, bins=7, edgecolor='black')
+plt.title('Internet Usage Distribution')
+plt.xlabel('Minutes Online')
+plt.ylabel('Frequency')
+plt.show()
+
+# Calculate statistics
+print(f"Mean: {np.mean(data):.2f}")
+print(f"Median: {np.median(data):.2f}")
+print(f"Standard Deviation: {np.std(data):.2f}")
+```
+
+<br><br>
+
+## Key Learning Outcomes
+
+After completing this course, students will be able to:
+
+1. **Construct and interpret frequency distributions** from raw data
+2. **Create various types of histograms** and understand their relationship to frequency distributions
+3. **Identify and handle outliers** in datasets
+4. **Analyze distribution shapes** and their implications
+5. **Calculate and interpret central tendency measures**
+6. **Apply statistical concepts** to data mining problems
+7. **Use Python tools** for statistical analysis and visualization
+
+<br>
+
+## Important Notes
+
+- **Outliers require careful consideration** - they may represent valuable insights or data quality issues
+- **Histogram bins should be chosen thoughtfully** - too few may hide patterns, too many may create noise
+- **Frequency distributions are fundamental** to understanding data structure before applying advanced data mining techniques
+- **Visual analysis complements numerical statistics** for comprehensive data understanding
+
+<br>
+
+*This material is part of the Introduction to Data Mining with Python course, focusing on fundamental statistical concepts essential for effective data analysis and mining.*
+
+<br>
+
 ## [Class_1 Content]()
 
 ### Syllabus (Ementa)
