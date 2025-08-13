@@ -1,7 +1,7 @@
 
 <br>
 
-# [Introduction to Data Mining with Python and Stats Review]() - Class 1
+# [Class 1](): Introduction to Data Mining with Python and Stats Review
 
 <br><br>
 
@@ -15,6 +15,92 @@
 <br>
 
 This repository contains materials and examples for the **Introduction to Data Mining with Python Class 1** course, focusing on fundamental statistical concepts and data analysis techniques essential for data mining applications.
+
+<br>
+
+## Repository Structure
+
+```
+├── data/                 # Sample datasets
+├── notebooks/           # Jupyter notebooks with examples
+├── scripts/             # Python scripts for analysis
+├── images/              # Generated plots and visualizations
+└── docs/                # Additional documentation
+```
+
+<br><br>
+
+
+## Getting Started
+
+### Prerequisites:
+
+- Python 3.7+
+- Required libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
+
+<br>
+
+### Installation:
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn jupyter
+```
+
+<br>
+
+### Quick Start:
+
+<br>
+
+```python
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+
+# Load sample data
+data = [50, 40, 41, 17, 11, 7, 22, 44, 28, 21, 19, 23, 37, 51, 54, 42, 86,
+        41, 78, 56, 72, 56, 17, 7, 69, 30, 80, 56, 29, 33, 46, 31, 39, 20,
+        18, 29, 34, 59, 73, 77, 36, 39, 30, 62, 54, 67, 39, 31, 53, 44]
+
+# Create histogram
+plt.figure(figsize=(10, 6))
+plt.hist(data, bins=7, edgecolor='black')
+plt.title('Internet Usage Distribution')
+plt.xlabel('Minutes Online')
+plt.ylabel('Frequency')
+plt.show()
+
+# Calculate statistics
+print(f"Mean: {np.mean(data):.2f}")
+print(f"Median: {np.median(data):.2f}")
+print(f"Standard Deviation: {np.std(data):.2f}")
+```
+
+<br><br>
+
+## Key Learning Outcomes
+
+After completing this course, students will be able to:
+
+1. **Construct and interpret frequency distributions** from raw data
+2. **Create various types of histograms** and understand their relationship to frequency distributions
+3. **Identify and handle outliers** in datasets
+4. **Analyze distribution shapes** and their implications
+5. **Calculate and interpret central tendency measures**
+6. **Apply statistical concepts** to data mining problems
+7. **Use Python tools** for statistical analysis and visualization
+
+<br>
+
+## Important Notes
+
+- **Outliers require careful consideration** - they may represent valuable insights or data quality issues
+- **Histogram bins should be chosen thoughtfully** - too few may hide patterns, too many may create noise
+- **Frequency distributions are fundamental** to understanding data structure before applying advanced data mining techniques
+- **Visual analysis complements numerical statistics** for comprehensive data understanding
+
+<br>
+
+*This material is part of the Introduction to Data Mining with Python course, focusing on fundamental statistical concepts essential for effective data analysis and mining.*
 
 <br>
 
@@ -192,4 +278,102 @@ Understanding distribution shapes helps identify data characteristics:
 - **Model Selection**: Choosing appropriate algorithms based on data distribution
 
 <br><br>
+
+
+#### Python Implementation Examples:
+
+<br>
+
+```python
+import matplotlib.pyplot as plt
+import numpy as np
+
+# Create frequency distribution
+def create_frequency_distribution(data, num_classes=7):
+    min_val, max_val = min(data), max(data)
+    class_size = (max_val - min_val) / num_classes
+    
+    # Define class boundaries
+    boundaries = [min_val + i * class_size for i in range(num_classes + 1)]
+    
+    # Count frequencies
+    frequencies = []
+    for i in range(num_classes):
+        count = sum(1 for x in data if boundaries[i] <= x < boundaries[i+1])
+        frequencies.append(count)
+    
+    return boundaries, frequencies
+
+# Create histogram
+def plot_histogram(data, title="Frequency Distribution"):
+    plt.figure(figsize=(10, 6))
+    plt.hist(data, bins=7, edgecolor='black', alpha=0.7)
+    plt.title(title)
+    plt.xlabel('Values')
+    plt.ylabel('Frequency')
+    plt.grid(True, alpha=0.3)
+    plt.show()
+```
+
+<br><br>
+
+
+## Bibliography
+
+### Primary References:
+
+1. **Castro, L. N. & Ferrari, D. G.** (2016). *Introdução à mineração de dados: conceitos básicos, algoritmos e aplicações*. Saraiva.
+
+2. **Ferreira, A. C. P. L. et al.** (2024). *Inteligência Artificial - Uma Abordagem de Aprendizado de Máquina*. 2nd Ed. LTC.
+
+3. **Larson & Farber** (2015). *Estatística Aplicada*. Pearson.
+
+<br><br>
+
+<br><br>
+
+
+## 💌 [Let the data flow... Ping Me !](mailto:fabicampanari@proton.me)
+
+<br><br>
+
+
+
+#### <p align="center">  🛸๋ My Contacts [Hub](https://linktr.ee/fabianacampanari)
+
+
+<br>
+
+### <p align="center"> <img src="https://github.com/user-attachments/assets/517fc573-7607-4c5d-82a7-38383cc0537d" />
+
+
+
+
+<br><br><br>
+
+<p align="center">  ────────────── 🔭⋆ ──────────────
+
+
+<p align="center"> ➣➢➤ <a href="#top">Back to Top </a>
+
+<!--
+<p align="center">  ────────────── ✦ ──────────────
+-->
+
+
+
+<!-- Programmers and artists are the only professionals whose hobby is their profession."
+
+" I love people who are committed to transforming the world "
+
+" I'm big fan of those who are making waves in the world! "
+
+##### <p align="center">( Rafael Lain ) </p>   -->
+
+#
+
+###### <p align="center"> Copyright 2025 Quantum Software Development. Code released under the [MIT License license.](https://github.com/Quantum-Software-Development/Math/blob/3bf8270ca09d3848f2bf22f9ac89368e52a2fb66/LICENSE)
+
+
+
 
