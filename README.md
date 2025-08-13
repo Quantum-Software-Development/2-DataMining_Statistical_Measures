@@ -193,3 +193,101 @@ Understanding distribution shapes helps identify data characteristics:
 
 <br><br>
 
+
+#### Python Implementation Examples:
+
+<br>
+
+```python
+import matplotlib.pyplot as plt
+import numpy as np
+
+# Create frequency distribution
+def create_frequency_distribution(data, num_classes=7):
+    min_val, max_val = min(data), max(data)
+    class_size = (max_val - min_val) / num_classes
+    
+    # Define class boundaries
+    boundaries = [min_val + i * class_size for i in range(num_classes + 1)]
+    
+    # Count frequencies
+    frequencies = []
+    for i in range(num_classes):
+        count = sum(1 for x in data if boundaries[i] <= x < boundaries[i+1])
+        frequencies.append(count)
+    
+    return boundaries, frequencies
+
+# Create histogram
+def plot_histogram(data, title="Frequency Distribution"):
+    plt.figure(figsize=(10, 6))
+    plt.hist(data, bins=7, edgecolor='black', alpha=0.7)
+    plt.title(title)
+    plt.xlabel('Values')
+    plt.ylabel('Frequency')
+    plt.grid(True, alpha=0.3)
+    plt.show()
+```
+
+<br><br>
+
+
+## Bibliography
+
+### Primary References:
+
+1. **Castro, L. N. & Ferrari, D. G.** (2016). *Introdução à mineração de dados: conceitos básicos, algoritmos e aplicações*. Saraiva.
+
+2. **Ferreira, A. C. P. L. et al.** (2024). *Inteligência Artificial - Uma Abordagem de Aprendizado de Máquina*. 2nd Ed. LTC.
+
+3. **Larson & Farber** (2015). *Estatística Aplicada*. Pearson.
+
+<br><br>
+
+<br><br>
+
+
+## 💌 [Let the data flow... Ping Me !](mailto:fabicampanari@proton.me)
+
+<br><br>
+
+
+
+#### <p align="center">  🛸๋ My Contacts [Hub](https://linktr.ee/fabianacampanari)
+
+
+<br>
+
+### <p align="center"> <img src="https://github.com/user-attachments/assets/517fc573-7607-4c5d-82a7-38383cc0537d" />
+
+
+
+
+<br><br><br>
+
+<p align="center">  ────────────── 🔭⋆ ──────────────
+
+
+<p align="center"> ➣➢➤ <a href="#top">Back to Top </a>
+
+<!--
+<p align="center">  ────────────── ✦ ──────────────
+-->
+
+
+
+<!-- Programmers and artists are the only professionals whose hobby is their profession."
+
+" I love people who are committed to transforming the world "
+
+" I'm big fan of those who are making waves in the world! "
+
+##### <p align="center">( Rafael Lain ) </p>   -->
+
+#
+
+###### <p align="center"> Copyright 2025 Quantum Software Development. Code released under the [MIT License license.](https://github.com/Quantum-Software-Development/Math/blob/3bf8270ca09d3848f2bf22f9ac89368e52a2fb66/LICENSE)
+
+
+
+
