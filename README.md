@@ -15,27 +15,6 @@
 <br><br>
 
 
-<!-- PUC HEADER GIF
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/0d6324da-9468-455e-b8d1-2cce8bb63b06" />
--->
-
-
-<br><br>    
-
-<!-- video presentation -->
-
-
-##### 🎶 Prelude Suite no.1 (J. S. Bach) - [Sound Design Remix]()
-
-https://github.com/user-attachments/assets/4ccd316b-74a1-4bae-9bc7-1c705be80498
-
-####  📺 For better resolution, watch the video on [YouTube.](https://youtu.be/_ytC6S4oDbM)
-
-
-
-<br><br>
-
 #### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
 
 
@@ -48,6 +27,27 @@ https://github.com/user-attachments/assets/4ccd316b-74a1-4bae-9bc7-1c705be80498
 [**Program:**]() Humanistic AI and Data Science
 [**Semester:**]() 2nd Semester 2025  
 Professor:  [***Professor Doctor in Mathematics Daniel Rodrigues da Silva***](https://www.linkedin.com/in/daniel-rodrigues-048654a5/)
+
+
+<br><br>
+
+
+<!-- PUC HEADER GIF
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0d6324da-9468-455e-b8d1-2cce8bb63b06" />
+-->
+
+<br>
+
+<!-- video presentation -->
+
+
+##### 🎶 Prelude Suite no.1 (J. S. Bach) - [Sound Design Remix]()
+
+https://github.com/user-attachments/assets/4ccd316b-74a1-4bae-9bc7-1c705be80498
+
+####  📺 For better resolution, watch the video on [YouTube.](https://youtu.be/_ytC6S4oDbM)
+
 
 
 <br><br>
