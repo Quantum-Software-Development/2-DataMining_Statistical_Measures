@@ -11,6 +11,13 @@
 # <p align="center">  [Class 2 and 3]():  Data Mining with Python and [Stats Review]()
 ### <p align="center">  Specialized Consulting for Integrated Project: Data Mining - [Full Repository Access](https://github.com/Quantum-Software-Development/specialized-consulting-data-mining)
 
+<br>
+
+This repository is a review of the Statistics course from the undergraduate program Humanities, AI and Data Science at PUC-SP.
+
+If you’d like to explore the full materials from the 1st year (not only the review), you can visit the complete repository [here](https://github.com/FabianaCampanari/PracticalStats-PUCSP-2024).
+
+
 
 <br><br>
 
