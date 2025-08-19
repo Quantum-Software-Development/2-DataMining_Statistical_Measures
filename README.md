@@ -1,14 +1,36 @@
 
 <br>
 
+**\[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md)**\]**
+
+
+<br><br>
+
+
+
 # <p align="center">  [Class 2 and 3](): Introduction to Data Mining with Python and Stats Review
 ### <p align="center">  Specialized Consulting for Integrated Project: Data Mining - [Full Repository Access](https://github.com/Quantum-Software-Development/specialized-consulting-data-mining)
 
 
 <br><br>
 
+
+<!-- PUC HEADER GIF
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0d6324da-9468-455e-b8d1-2cce8bb63b06" />
+-->
+
+
+<br><br>    
+
+<!-- video presentation -->
+
+
+##### 🎶 Prelude Suite no.1 (J. S. Bach) - [Sound Design Remix]()
+
+https://github.com/user-attachments/assets/4ccd316b-74a1-4bae-9bc7-1c705be80498
+
+####  📺 For better resolution, watch the video on [YouTube.](https://youtu.be/_ytC6S4oDbM)
 
 
 
