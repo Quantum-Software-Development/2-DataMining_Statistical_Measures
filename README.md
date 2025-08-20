@@ -383,7 +383,7 @@ def plot_histogram(data, title="Frequency Distribution"):
 <br><br><br>
 
 
-# [Exercise]() - Finding the Mean of a Frequency Distribution
+## [Exemple 1]() - Finding the Mean of a Frequency Distribution
 
 
 ### [Step-by-Step Instructions]()
@@ -424,7 +424,7 @@ Use the frequency distribution below to approximate the average number of minute
 <br><br>
 
 
-### 1.[Let's compute the products and their sumLet's compute the products and their sum:
+### [Let's compute the products and their sumLet's compute the products and their sum:
 
 
 | Class | Midpoint ($x$) | Frequency ($f$) | $x \cdot f$ |
@@ -446,6 +446,7 @@ Use the frequency distribution below to approximate the average number of minute
 <br><br>
 
 $$
+\Huge
 \bar{x} = \frac{\sum (x \cdot f)}{n} = \frac{2089}{50} \approx 41.8 \text{ minutes}
 $$
 
@@ -453,36 +454,165 @@ $$
 <br><br>
 
 ```latex
+\Huge
 \bar{x} = \frac{\sum (x \cdot f)}{n} = \frac{2089}{50} \approx 41.8 \text{ minutes}
 ```
 
 <br><br>
 
 
-### 2.[Shapes of Distributions]()
+### [Shapes of Distributions]()
 
 ### Symmetrical Distribution
 
 - A vertical line can be drawn at the middle of the graph, and the halves are nearly identical.
 
+
+<br><br>
+
+
+### [Shapes of Distributions]()
+
 <br>
 
-# Shapes of Distributions
-
-## Symmetrical Distribution
+### Symmetrical Distribution
 
 - A vertical line can be drawn at the middle of the graph, and the halves are nearly identical.
 
+
 <br>
 
-## Uniform Distribution (Rectangular)
+
+### [Uniform Distribution]() (Rectangular)
 
 - All entries have equal or nearly equal frequencies.
 - The distribution is symmetric.
 
 
 
+<br><br>
 
+
+### [Left-Skewed Distribution]() (Negatively Skewed)
+
+- The "tail" of the graph extends more to the left.
+- The mean is to the left of the median.
+
+
+<br>
+
+
+### [Right-Skewed Distribution]() (Positively Skewed)
+
+- The "tail" of the graph extends more to the right.
+- The mean is to the right of the median.
+
+
+<br>
+
+
+### [Finding the Weighted Mean]()
+
+Sometimes, the mean is calculated considering different "weights" for each value.
+
+
+<br><br>
+
+
+## [Exemple 2]() 
+
+<br>
+
+### [A student's grade is determined based on 5 sources]():
+
+- 50% for the average of exams
+- 15% for the midterm exam
+- 20% for the final exam
+- 10% for computer lab work
+- 5% for homework
+
+<br>
+
+### [Suppose your grades are]():
+
+- Exam average: 86
+- Midterm: 96
+- Final Exam: 82
+- Lab: 98
+- Homework: 100
+
+
+<br><br>
+
+
+### [Weighted Mean Calculation Table](()
+
+| Source | Grade ($x$) | Weight ($w$) | $x \cdot w$ |
+| :-- | :--: | :--: | :--: |
+| Exam Average | 86 | 0.50 | 43.0 |
+| Midterm | 96 | 0.15 | 14.4 |
+| Final Exam | 82 | 0.20 | 16.4 |
+| Lab | 98 | 0.10 | 9.8 |
+| Homework | 100 | 0.05 | 5.0 |
+| **Sum** |  | **1** | **88.6** |
+
+$$
+\Huge
+\bar{x} = \frac{\sum (x \cdot w)}{\sum w} = \frac{88.6}{1} = 88.6
+$$
+
+
+<br>
+
+```latex
+\Huge
+\bar{x} = \frac{\sum (x \cdot w)}{\sum w} = \frac{88.6}{1} = 88.6
+```
+
+
+<br><br>
+
+So, the student did [**not**]() get an [A (minimum required is 90)]().
+
+
+<br><br>
+
+
+## [Mean of Grouped Data]()
+
+The mean of a frequency distribution is calculated as:
+
+<br><br>
+
+
+$$
+\Huge
+\bar{x} = \frac{\sum (x \cdot f)}{n}
+$$
+
+
+<br>
+
+```latex
+\Huge
+\bar{x} = \frac{\sum (x \cdot f)}{n}
+```
+
+<br><br>
+
+Where [x]() is the class midpoint and [f]() is the frequency of the class.
+
+
+
+
+
+<br><br>
+
+<br><br>
+
+<br><br>
+
+<br><br>
 
 
 
