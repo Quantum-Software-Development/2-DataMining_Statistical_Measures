@@ -379,18 +379,19 @@ def plot_histogram(data, title="Frequency Distribution"):
     plt.show()
 ```
 
-<br><br>
+
+<br><br><br>
 
 
-# Exercise - Finding the Mean of a Frequency Distribution
+# [Exercise]() - Finding the Mean of a Frequency Distribution
 
 
-### Step-by-Step Instructions
+### [Step-by-Step Instructions]()
 
-### In Words \& In Symbols
-
+### In Words \& In Symbols](
 
 <br>
+
 
 | In Words | In Symbols |
 | :-- | :-- |
@@ -403,8 +404,7 @@ def plot_histogram(data, title="Frequency Distribution"):
 <br><br>
 
 
-
-### Example: Finding the Mean of a Frequency Distribution
+### [Example](): Finding the Mean of a Frequency Distribution
 
 Use the frequency distribution below to approximate the average number of minutes that a sample of internet users spent connected in their last session.
 
@@ -422,6 +422,43 @@ Use the frequency distribution below to approximate the average number of minute
 
 
 <br><br>
+
+
+### [Let's compute the products and their sumLet's compute the products and their sum:
+
+
+| Class | Midpoint ($x$) | Frequency ($f$) | $x \cdot f$ |
+| :-- | :-- | :-- | :-- |
+| 7 – 18 | 12.5 | 6 | 75.0 |
+| 19 – 30 | 24.5 | 10 | 245.0 |
+| 31 – 42 | 36.5 | 13 | 474.5 |
+| 43 – 54 | 48.5 | 8 | 388.0 |
+| 55 – 66 | 60.5 | 5 | 302.5 |
+| 67 – 78 | 72.5 | 6 | 435.0 |
+| 79 – 90 | 84.5 | 2 | 169.0 |
+| **Total** |  | **50** | **2089.0** |:
+
+
+<br><br>
+
+
+### Let's compute the products and their sum:
+
+
+<br>
+
+
+
+| Class | Midpoint ($x$) | Frequency ($f$) | $x \cdot f$ |
+| :-- | :-- | :-- | :-- |
+| 7 – 18 | 12.5 | 6 | 75.0 |
+| 19 – 30 | 24.5 | 10 | 245.0 |
+| 31 – 42 | 36.5 | 13 | 474.5 |
+| 43 – 54 | 48.5 | 8 | 388.0 |
+| 55 – 66 | 60.5 | 5 | 302.5 |
+| 67 – 78 | 72.5 | 6 | 435.0 |
+| 79 – 90 | 84.5 | 2 | 169.0 |
+| **Total** |  | **50** | **2089.0** |
 
 
 
