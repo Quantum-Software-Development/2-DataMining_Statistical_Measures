@@ -441,16 +441,25 @@ Use the frequency distribution below to approximate the average number of minute
 
 <br><br>
 
-### Therefore, the mean is:
+### [Therefore, the mean is]():
+
+<br><br>
 
 $$
 \bar{x} = \frac{\sum (x \cdot f)}{n} = \frac{2089}{50} \approx 41.8 \text{ minutes}
 $$
 
+
+<br><br>
+
+```latex
+\bar{x} = \frac{\sum (x \cdot f)}{n} = \frac{2089}{50} \approx 41.8 \text{ minutes}
+```
+
 <br><br>
 
 
-## Shapes of Distributions
+## [Shapes of Distributions]()
 
 ### Symmetrical Distribution
 
