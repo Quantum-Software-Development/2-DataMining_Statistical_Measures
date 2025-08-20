@@ -382,6 +382,107 @@ def plot_histogram(data, title="Frequency Distribution"):
 <br><br>
 
 
+# Exercise - Finding the Mean of a Frequency Distribution
+
+
+### Step-by-Step Instructions
+
+### In Words \& In Symbols
+
+
+<br>
+
+| In Words | In Symbols |
+| :-- | :-- |
+| 1. Find the midpoint of each class. | \$ x = \frac{lower limit + upper limit}{2} \$ |
+| 2. Multiply each midpoint by its class frequency and sum the results. | \$ \sum (x \cdot f) \$ |
+| 3. Find the sum of all frequencies. | \$ n = \sum f \$ |
+| 4. Calculate the mean by dividing the sum from step 2 by step 3. | \$ \bar{x} = \frac{\sum (x \cdot f)}{n} \$ 
+
+
+<br><br>
+
+
+
+### Example: Finding the Mean of a Frequency Distribution
+
+Use the frequency distribution below to approximate the average number of minutes that a sample of internet users spent connected in their last session.
+
+<br>
+
+| Class | Midpoint ($x$) | Frequency ($f$) |
+| :-- | :--: | :--: |
+| 7 – 18 | 12.5 | 6 |
+| 19 – 30 | 24.5 | 10 |
+| 31 – 42 | 36.5 | 13 |
+| 43 – 54 | 48.5 | 8 |
+| 55 – 66 | 60.5 | 5 |
+| 67 – 78 | 72.5 | 6 |
+| 79 – 90 | 84.5 | 2 |
+
+
+<br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br>
+
 ## Bibliography
 
 ### Primary References:
