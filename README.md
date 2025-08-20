@@ -441,24 +441,27 @@ Use the frequency distribution below to approximate the average number of minute
 
 <br><br>
 
+### Therefore, the mean is:
 
-### Let's compute the products and their sum:
+$$
+\bar{x} = \frac{\sum (x \cdot f)}{n} = \frac{2089}{50} \approx 41.8 \text{ minutes}
+$$
 
+<br><br>
+
+
+## Shapes of Distributions
+
+### Symmetrical Distribution
+
+- A vertical line can be drawn at the middle of the graph, and the halves are nearly identical.
 
 <br>
 
 
 
-| Class | Midpoint ($x$) | Frequency ($f$) | $x \cdot f$ |
-| :-- | :-- | :-- | :-- |
-| 7 – 18 | 12.5 | 6 | 75.0 |
-| 19 – 30 | 24.5 | 10 | 245.0 |
-| 31 – 42 | 36.5 | 13 | 474.5 |
-| 43 – 54 | 48.5 | 8 | 388.0 |
-| 55 – 66 | 60.5 | 5 | 302.5 |
-| 67 – 78 | 72.5 | 6 | 435.0 |
-| 79 – 90 | 84.5 | 2 | 169.0 |
-| **Total** |  | **50** | **2089.0** |
+
+
 
 
 
