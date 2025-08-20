@@ -424,7 +424,7 @@ Use the frequency distribution below to approximate the average number of minute
 <br><br>
 
 
-### [Let's compute the products and their sumLet's compute the products and their sum:
+### 1.[Let's compute the products and their sumLet's compute the products and their sum:
 
 
 | Class | Midpoint ($x$) | Frequency ($f$) | $x \cdot f$ |
@@ -459,7 +459,7 @@ $$
 <br><br>
 
 
-## [Shapes of Distributions]()
+### 2.[Shapes of Distributions]()
 
 ### Symmetrical Distribution
 
@@ -467,7 +467,18 @@ $$
 
 <br>
 
+# Shapes of Distributions
 
+## Symmetrical Distribution
+
+- A vertical line can be drawn at the middle of the graph, and the halves are nearly identical.
+
+<br>
+
+## Uniform Distribution (Rectangular)
+
+- All entries have equal or nearly equal frequencies.
+- The distribution is symmetric.
 
 
 
