@@ -556,6 +556,9 @@ Sometimes, the mean is calculated considering different "weights" for each value
 | Homework | 100 | 0.05 | 5.0 |
 | **Sum** |  | **1** | **88.6** |
 
+
+<br><br>
+
 $$
 \Huge
 \bar{x} = \frac{\sum (x \cdot w)}{\sum w} = \frac{88.6}{1} = 88.6
