@@ -8,7 +8,7 @@
 
 
 
-# <p align="center">  [Class 2 and 3]():  Data Mining with Python and [Stats Review]()
+# <p align="center">  [Class 2 and 3]():  Data Mining with Python - [Stats Review]()
 ### <p align="center">  Specialized Consulting for Integrated Project: Data Mining - [Main Repository Access](https://github.com/Quantum-Software-Development/specialized-consulting-data-mining)
 
 
