@@ -76,15 +76,14 @@ https://github.com/user-attachments/assets/4ccd316b-74a1-4bae-9bc7-1c705be80498
 > [!IMPORTANT]
 > 
 > ⚠️ Heads Up
+>
+> * Projects and deliverables may be made [publicly available]() whenever possible.
+> * The course prioritizes [**hands-on practice**]() with real data in consulting scenarios.
+> * All activities comply with the [**academic and ethical guidelines of PUC-SP**]().
+> * [**Confidential information**]() from this repository remains private in [private repositories]().
+>
 
 
-* Projects and deliverables may be made [publicly available]() whenever possible.
-
-* The course prioritizes [**hands-on practice**]() with real data in consulting scenarios.
-
-* All activities comply with the [**academic and ethical guidelines of PUC-SP**]().
-
-* [**Confidential information**]() from this repository remains private in [private repositories]().
 
 #
 
