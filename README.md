@@ -15,18 +15,6 @@
 <br><br>
 
 
-This repository is a review of the Statistics course from the undergraduate program Humanities, AI and Data Science at PUC-SP.
-
-If you’d like to explore the full materials from the 1st year (not only the review), you can visit the complete repository [here](https://github.com/FabianaCampanari/PracticalStats-PUCSP-2024).
-
-<br><br>
-
-
-#### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
-
-
-<br><br>
-
 
 
 [**Institution:**]() Pontifical Catholic University of São Paulo (PUC-SP)  
@@ -34,6 +22,26 @@ If you’d like to explore the full materials from the 1st year (not only the re
 [**Program:**]() Humanistic AI and Data Science
 [**Semester:**]() 2nd Semester 2025  
 Professor:  [***Professor Doctor in Mathematics Daniel Rodrigues da Silva***](https://www.linkedin.com/in/daniel-rodrigues-048654a5/)
+
+
+<br><br>
+
+
+> [!TIP]
+> 
+>  This repository is a review of the Statistics course from the undergraduate program Humanities, AI and Data Science at PUC-SP.
+> 
+>  If you’d like to explore the full materials from the 1st year (not only the review), you can visit the complete repository [here](https://github.com/FabianaCampanari/PracticalStats-PUCSP-2024).
+>
+>
+
+
+
+<br><br>
+
+
+#### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
+
 
 
 <br><br>
