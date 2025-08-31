@@ -9,7 +9,7 @@
 
 
 # <p align="center">  [Class 2 and 3]():  Data Mining with Python - [Stats Review]()
-### <p align="center">  Specialized Consulting for Integrated Project: Data Mining - [Main Data Mining Consulting Repository Access](https://github.com/Quantum-Software-Development/main--data-miningepo-consulting)
+### <p align="center">  Specialized Consulting for Integrated Project: Data Mining - [Main Data Mining Repository Access](https://github.com/Quantum-Software-Development/1-Main_DataMining_Repository)
 
 
 <br><br>
