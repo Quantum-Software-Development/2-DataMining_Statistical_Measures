@@ -11,6 +11,10 @@
 # <p align="center">  2 and 3- [Data Mining with Python - Stats Review]()
 
 
+
+<!-- =======================================END DEFAULT HEADER ===========================================  -->
+
+
 <br><br>
 
 
@@ -85,6 +89,10 @@ https://github.com/user-attachments/assets/4ccd316b-74a1-4bae-9bc7-1c705be80498
 >  If you’d like to explore the full materials from the 1st year (not only the review), you can visit the complete repository [here](https://github.com/FabianaCampanari/PracticalStats-PUCSP-2024).
 >
 >
+
+
+
+<!-- =======================================END DEFAULT HEADER ===========================================  -->
 
 
 <br><br>
@@ -613,6 +621,7 @@ $$
 
 <br>
 
+
 ```latex
 \Huge
 \bar{x} = \frac{\sum (x \cdot f)}{n}
@@ -620,90 +629,29 @@ $$
 
 <br><br>
 
+
 Where [x]() is the class midpoint and [f]() is the frequency of the class.
 
 
 
+<br><br>
+
+
+## [Bibliography]()
+
+
+[1](). **Castro, L. N. & Ferrari, D. G.** (2016). *Introdução à mineração de dados: conceitos básicos, algoritmos e aplicações*. Saraiva.
+
+[2](). **Ferreira, A. C. P. L. et al.** (2024). *Inteligência Artificial - Uma Abordagem de Aprendizado de Máquina*. 2nd Ed. LTC.
+
+[3](). **Larson & Farber** (2015). *Estatística Aplicada*. Pearson.
 
 
 <br><br>
 
-<br><br>
 
-<br><br>
+<!-- ======================================= Start Footer ===========================================  -->
 
-<br><br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<br><br>
-
-## Bibliography
-
-### Primary References:
-
-1. **Castro, L. N. & Ferrari, D. G.** (2016). *Introdução à mineração de dados: conceitos básicos, algoritmos e aplicações*. Saraiva.
-
-2. **Ferreira, A. C. P. L. et al.** (2024). *Inteligência Artificial - Uma Abordagem de Aprendizado de Máquina*. 2nd Ed. LTC.
-
-3. **Larson & Farber** (2015). *Estatística Aplicada*. Pearson.
-
-<br><br>
 
 <br><br>
 
