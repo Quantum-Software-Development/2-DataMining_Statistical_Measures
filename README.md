@@ -8,8 +8,7 @@
 
 
 
-# <p align="center">  [2 and 3]() - Data Mining with Python - [Stats Review]()
-### <p align="center">  Specialized Consulting for Integrated Project: Data Mining - [Main Data Mining Repository Access](https://github.com/Quantum-Software-Development/1-Main_DataMining_Repository)
+# <p align="center">  2 and 3- [Data Mining with Python - [Stats Review]()
 
 
 <br><br>
@@ -80,6 +79,8 @@ https://github.com/user-attachments/assets/4ccd316b-74a1-4bae-9bc7-1c705be80498
 > [!TIP]
 > 
 >  This repository is a review of the Statistics course from the undergraduate program Humanities, AI and Data Science at PUC-SP.
+>
+>  [Access Main Data Mining Repository](https://github.com/Quantum-Software-Development/1-Main_DataMining_Repository)
 > 
 >  If you’d like to explore the full materials from the 1st year (not only the review), you can visit the complete repository [here](https://github.com/FabianaCampanari/PracticalStats-PUCSP-2024).
 >
