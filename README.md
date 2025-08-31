@@ -8,7 +8,7 @@
 
 
 
-# <p align="center">  2 and 3- [Data Mining with Python - Stats Review]()
+# <p align="center">  2 and 3- [Data Mining - Statistic Review]()
 
 
 
