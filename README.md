@@ -8,13 +8,11 @@
 
 
 
-# <p align="center">  [Class 2 and 3]():  Data Mining with Python - [Stats Review]()
+# <p align="center">  [2 and 3]() - Data Mining with Python - [Stats Review]()
 ### <p align="center">  Specialized Consulting for Integrated Project: Data Mining - [Main Data Mining Repository Access](https://github.com/Quantum-Software-Development/1-Main_DataMining_Repository)
 
 
 <br><br>
-
-
 
 
 [**Institution:**]() Pontifical Catholic University of São Paulo (PUC-SP)  
@@ -23,28 +21,35 @@
 [**Semester:**]() 2nd Semester 2025  
 Professor:  [***Professor Doctor in Mathematics Daniel Rodrigues da Silva***](https://www.linkedin.com/in/daniel-rodrigues-048654a5/)
 
-
 <br><br>
-
-
-> [!TIP]
-> 
->  This repository is a review of the Statistics course from the undergraduate program Humanities, AI and Data Science at PUC-SP.
-> 
->  If you’d like to explore the full materials from the 1st year (not only the review), you can visit the complete repository [here](https://github.com/FabianaCampanari/PracticalStats-PUCSP-2024).
->
->
-
-
-
-<br><br>
-
 
 #### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
 
 
+ <!--Confidentiality statement -->
 
-<br><br>
+<br><br><br>
+
+#
+
+<br><br><br>
+
+> [!IMPORTANT]
+> 
+> ⚠️ Heads Up
+>
+> * Projects and deliverables may be made [publicly available]() whenever possible.
+> * The course prioritizes [**hands-on practice**]() with real data in consulting scenarios.
+> * All activities comply with the [**academic and ethical guidelines of PUC-SP**]().
+> * [**Confidential information**]() from this repository remains private in [private repositories]().
+>
+
+<br><br><br>
+
+#
+
+<!--END-->
+
 
 
 <!-- PUC HEADER GIF
@@ -64,30 +69,20 @@ https://github.com/user-attachments/assets/4ccd316b-74a1-4bae-9bc7-1c705be80498
 ####  📺 For better resolution, watch the video on [YouTube.](https://youtu.be/_ytC6S4oDbM)
 
 
+<br><br>
 
- <!--Confidentiality statement -->
 
-<br><br><br>
+> [!TIP]
+> 
+>  This repository is a review of the Statistics course from the undergraduate program Humanities, AI and Data Science at PUC-SP.
+> 
+>  If you’d like to explore the full materials from the 1st year (not only the review), you can visit the complete repository [here](https://github.com/FabianaCampanari/PracticalStats-PUCSP-2024).
+>
+>
 
-#
 
 <br><br>
 
-> [!IMPORTANT]
-> 
-> ⚠️ Heads Up
->
-> * Projects and deliverables may be made [publicly available]() whenever possible.
-> * The course prioritizes [**hands-on practice**]() with real data in consulting scenarios.
-> * All activities comply with the [**academic and ethical guidelines of PUC-SP**]().
-> * [**Confidential information**]() from this repository remains private in [private repositories]().
->
-
-<br><br><br>
-
-#
-
-<!--END-->
 
 
 ##  [Overview]()
