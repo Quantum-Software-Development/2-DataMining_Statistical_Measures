@@ -26,9 +26,9 @@ Professor:  [***Professor Doctor in Mathematics Daniel Rodrigues da Silva***](ht
 #### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
 
 
- <!--Confidentiality statement -->
+<br><br>
 
-<br><br><br>
+<!--Confidentiality statement -->
 
 #
 
@@ -39,16 +39,22 @@ Professor:  [***Professor Doctor in Mathematics Daniel Rodrigues da Silva***](ht
 > ⚠️ Heads Up
 >
 > * Projects and deliverables may be made [publicly available]() whenever possible.
-> * The course prioritizes [**hands-on practice**]() with real data in consulting scenarios.
+> * The course emphasizes [**practical, hands-on experience**]() with real datasets to simulate professional consulting scenarios in the fields of **Data Analysis and Data Mining** for partner organizations and institutions affiliated with the university.
 > * All activities comply with the [**academic and ethical guidelines of PUC-SP**]().
-> * [**Confidential information**]() from this repository remains private in [private repositories]().
+> * Any content not authorized for public disclosure will remain [**confidential**]() and securely stored in [private repositories]().  
 >
 
-<br><br><br>
+
+<br><br>
 
 #
 
 <!--END-->
+
+
+
+
+<br><br><br><br>
 
 
 
@@ -57,7 +63,6 @@ Professor:  [***Professor Doctor in Mathematics Daniel Rodrigues da Silva***](ht
   <img src="https://github.com/user-attachments/assets/0d6324da-9468-455e-b8d1-2cce8bb63b06" />
 -->
 
-<br>
 
 <!-- video presentation -->
 
