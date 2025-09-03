@@ -637,6 +637,28 @@ Where [x]() is the class midpoint and [f]() is the frequency of the class.
 <br><br>
 
 
+
+<!-- ========================== [Bibliographr ====================  -->
+
+<br><br>
+
+
+## [Bibliography]()
+
+[1](). **Castro, L. N. & Ferrari, D. G.** (2016). *Introduction to Data Mining: Basic Concepts, Algorithms, and Applications*. Saraiva.
+
+[2](). **Ferreira, A. C. P. L. et al.** (2024). *Artificial Intelligence – A Machine Learning Approach*. 2nd Ed. LTC.
+
+[3](). **Larson & Farber** (2015). *Applied Statistics*. Pearson.
+
+
+<br><br>
+
+      
+<!-- ======================================= Bibliography Portugues ===========================================  -->
+
+<!--
+
 ## [Bibliography]()
 
 
@@ -648,12 +670,12 @@ Where [x]() is the class midpoint and [f]() is the frequency of the class.
 
 
 <br><br>
-
+-->
 
 <!-- ======================================= Start Footer ===========================================  -->
 
 
-<br><br>
+
 
 
 ## 💌 [Let the data flow... Ping Me !](mailto:fabicampanari@proton.me)
@@ -696,6 +718,12 @@ Where [x]() is the class midpoint and [f]() is the frequency of the class.
 #
 
 ###### <p align="center"> Copyright 2025 Quantum Software Development. Code released under the [MIT License license.](https://github.com/Quantum-Software-Development/Math/blob/3bf8270ca09d3848f2bf22f9ac89368e52a2fb66/LICENSE)
+
+
+
+
+
+
 
 
 
